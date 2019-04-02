@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author dharmu
+ *
+ */
+module privateMethodInInterface {
+}

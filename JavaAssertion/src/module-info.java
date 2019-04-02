@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author DharmuShayan
+ *
+ */
+module JavaAssertion {
+}

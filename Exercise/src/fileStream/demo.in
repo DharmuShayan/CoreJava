@@ -1,0 +1,7 @@
+
+Stream pipelines may execute either sequentially or in parallel. 
+This execution mode is a property of the stream. 
+Streams are created with an initial choice of sequential or parallel execution. 
+(For example, Collection.stream() creates a sequential stream, and Collection.parallelStream() creates a parallel one.) 
+This choice of execution mode may be modified by the BaseStream.sequential() or 
+BaseStream.parallel() methods, and may be queried with the BaseStream.isParallel() method.
